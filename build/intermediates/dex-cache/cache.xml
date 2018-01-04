@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pankajpathak/Desktop/FingerPrintScan/app/libs/FDxSDKProAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cb6cc24dbe94c87aed6afe9b7f87bdbcb47c35">
+        <dex dex="/Users/pankajpathak/Desktop/FingerPrintScan/app/build/intermediates/pre-dexed/debug/FDxSDKProAndroid_cfec2b6a56e6c19d9bec0c7d80f5e8568a5a4893.jar" />
+    </item>
+
+</items>
